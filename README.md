@@ -1,4 +1,4 @@
-# flutter_app
+# Instafeed
 
 A new Flutter application.
 
